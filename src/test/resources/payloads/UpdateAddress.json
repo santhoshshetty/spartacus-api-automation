@@ -1,0 +1,18 @@
+{
+    "defaultAddress": false,
+    "titleCode": "mr",
+    "firstName": "David",
+    "lastName": "Birla",
+    "line1": "Ravi varma",
+    "line2": "Dr",
+    "town": "Atlanta",
+    "region": {
+        "isocode": "US-GA",
+        "isocodeShort": "GA"
+    },
+    "country": {
+        "isocode": "US"
+    },
+    "postalCode": "30786",
+    "phone": "9912378678"
+}

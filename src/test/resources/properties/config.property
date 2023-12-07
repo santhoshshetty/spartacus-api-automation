@@ -1,0 +1,5 @@
+#baseURL=https://api.c39j2-walkersde1-d4-public.model-t.cc.commerce.ondemand.com/rest/v2/electronics-spa
+baseURL=https://spartacus-demo.eastus.cloudapp.azure.com:8443/occ/v2/electronics-spa
+#baseURLToken=https://api.c39j2-walkersde1-d4-public.model-t.cc.commerce.ondemand.com
+baseURLToken=https://spartacus-demo.eastus.cloudapp.azure.com:8443
+loginURLTo  ken=https://api.c39j2-walkersde1-d4-public.model-t.cc.commerce.ondemand.com/authorizationserver/oauth/token

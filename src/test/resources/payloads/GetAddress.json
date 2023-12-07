@@ -1,0 +1,18 @@
+{
+    "defaultAddress": true,
+    "titleCode": "mr",
+    "firstName": "raghur",
+    "lastName": "goud",
+    "line1": "test",
+    "line2": "test1",
+    "town": "wuhan",
+    "region": {
+        "isocode": "CN-11",
+        "isocodeShort": "11"
+    },
+    "country": {
+        "isocode": "CN"
+    },
+    "postalCode": "989786",
+    "phone": "8786765645"
+}

@@ -1,0 +1,18 @@
+{
+    "defaultAddress": false,
+    "titleCode": "mr",
+    "firstName": "John",
+    "lastName": "John Doe",
+    "line1": "1 Ravinia",
+    "line2": "Dr",
+    "town": "Atlanta",
+    "region": {
+        "isocode": "US-GA",
+        "isocodeShort": "GA"
+    },
+    "country": {
+        "isocode": "US"
+    },
+    "postalCode": "30346",
+    "phone": "9160669160"
+}

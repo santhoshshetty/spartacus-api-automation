@@ -1,0 +1,924 @@
+2020-07-30 15:43:10,620 [main] INFO com.spartacus.steps.BeforeAfterStepDefinition - Reports Initialization::com.aventstack.extentreports.reporter.ExtentHtmlReporter@1ce24091
+2020-07-30 15:43:22,159 [main] INFO com.spartacus.utilities.APIHelper - 1986316{
+   "availableForPickup" : true,
+   "averageRating" : 2.607142857142857,
+   "baseOptions" : [ ],
+   "categories" : [ {
+      "code" : "584",
+      "name" : "Hand-held Camcorders"
+   }, {
+      "code" : "brand_10",
+      "name" : "Canon"
+   } ],
+   "code" : "1986316",
+   "configurable" : false,
+   "description" : "<b>The LEGRIA HF S100 records Full HD video to SDHC memory cards, ideal for sharing. A range of advanced features combine with an 8.0MP CMOS sensor and DIGIC DV III to deliver superior picture quality.</b><br/><br/><b>Features</b><br/><br/>- 8.0MP Canon HD Camera System<br/>- SDHC Memory card recording<br/>- Instant AF and Super Range OIS<br/>- Manual control options<br/>- Video Snapshot, Face Detection, Pre REC<br/>- x.v.Colour and 25p<br/>- 8MP photos<br/>- Superior audio<br/>- Mini Advanced Accessory Shoe<br/>- Editing software <br/><br/>Supreme quality, advanced control.<br/><br/><b>Canon HD Camera System</b><br/>Superb HD images are delivered by a high resolution Canon HD Camera System: an 8.0MP Full HD CMOS sensor, a Canon HD Video Lens (58mm filter diameter) with 10x optical zoom and the DIGIC DV III processor.<br/><br/><b>Memory card recording</b><br/>Record directly to high capacity SDHC memory cards – a 32GB card can store over 12 hours of HD movies at the most efficient setting. For maximum quality, shoot at 24Mbps. Cards are perfect for sharing.<br/><br/><b>Essential shooting features</b><br/>Canon’s unique Instant AF system achieves incredibly accurate focus at speed. Super Range OIS combats almost all kinds of camera shake, keeping shots steady.<br/><br/><b>Advanced control</b><br/>A Custom Key lets you activate one of five variables which can be assigned to the manual Control Dial, including focus, exposure, and audio level. Further advanced controls include AGC (Auto Gain Control) limits – usually only found on professional camcorders, this boosts or limits responsiveness when shooting in low light – Zebra patterns, Colour Peaking and Colour Bar/Test Tone output.<br/><br/><b>Great videos made easy</b><br/>Video Snapshot limits each movie to 4 seconds – ideal for putting together in a playlist later. Play back your montage of video clips to a soundtrack of your choice. Face Detection Technology automatically optimises settings for perfect people shots, detecting up to 35 faces in a frame. Pre REC captures the 3 seconds of action before you press Record – so you never miss the shot.<br/><br/><b>Choose your colour</b><br/>DIGIC DV III supports x.v.Color – for deeper, richer hues when movies are played back on compatible HD TVs. 25p Cinema Mode matches the look of traditional film, and provides enhanced low-light shooting.<br/><br/><b>Still shooting</b><br/>A dedicated Photo mode allows users to capture high resolution still images, up to 8MP. In Dual Shot mode, 6MP stills can be shot during video recording. Photo Burst grabs 25 stills from a single second of recorded footage.<br/><br/><b>Better audio</b><br/>Capture and monitor superior audio using the microphone and headphone jacks. Manual audio level control provides even more options.<br/><br/><b>Expandable system</b><br/>Attach a range of optional peripherals to a mini Advanced Accessory Shoe, including a directional microphone and video light.<br/><br/><b>Software</b><br/>Easy-to-use PIXELA™ software is supplied for editing and sharing movies. With Canon’s DW-100 DVD Burner (available separately) burn DVDs at the touch of a button.",
+   "manufacturer" : "Canon",
+   "name" : "LEGRIA HF S100",
+   "numberOfReviews" : 28,
+   "price" : {
+      "currencyIso" : "USD",
+      "formattedValue" : "$1,934.23",
+      "priceType" : "BUY",
+      "value" : 1934.23
+   },
+   "priceRange" : {
+   },
+   "purchasable" : true,
+   "stock" : {
+      "stockLevelStatus" : "inStock"
+   },
+   "summary" : "LEGRIA HF S100 - SD/SDHC, 1/2.6\"\" CMOS, 8.59 megapixel, 6.4 - 64mm, 10x Optical, DIGIC DV III, 2.7\"\" LCD, 0.3 lux, 1/6 - 1/2000th sec., USB/HDMI",
+   "url" : "/electronics-spa/products/1986316"
+}
+2020-07-30 15:43:22,162 [main] INFO com.spartacus.utilities.APIHelper - 1986316Date=Thu, 30 Jul 2020 10:13:32 GMT
+Server=
+X-Frame-Options=SAMEORIGIN
+X-Anonymous-Consents=%5B%7B%22templateCode%22%3A%22MARKETING_NEWSLETTER%22%2C%22templateVersion%22%3A0%2C%22consentState%22%3Anull%7D%2C%7B%22templateCode%22%3A%22PROFILE%22%2C%22templateVersion%22%3A0%2C%22consentState%22%3Anull%7D%2C%7B%22templateCode%22%3A%22STORE_USER_INFORMATION%22%2C%22templateVersion%22%3A0%2C%22consentState%22%3Anull%7D%5D
+Cache-Control=private, max-age=120
+Strict-Transport-Security=max-age=16070400 ; includeSubDomains
+X-XSS-Protection=1; mode=block
+X-Content-Type-Options=nosniff
+ETag="0abe889088fa851badabd468189f74317-gzip"
+Content-Type=application/json;charset=UTF-8
+Vary=Accept-Encoding,User-Agent
+Content-Encoding=gzip
+Set-Cookie=ROUTE=.api-59b55566f5-tphtj; Path=/; Secure; HttpOnly; SameSite=None
+Content-Length=1955
+Keep-Alive=timeout=5, max=100
+Connection=Keep-Alive
+2020-07-30 15:43:22,163 [main] INFO com.spartacus.utilities.APIHelper - Detailed Info..
+2020-07-30 15:43:22,535 [main] INFO com.spartacus.utilities.APIHelper - 1986316io.restassured.internal.ValidatableResponseImpl@69e05f61
+2020-07-30 15:43:24,463 [main] INFO com.spartacus.steps.BeforeAfterStepDefinition - Properties objects are initialized, hence skip this method
+2020-07-30 15:43:24,463 [main] INFO com.spartacus.steps.BeforeAfterStepDefinition - Reports Initialization::com.aventstack.extentreports.reporter.ExtentHtmlReporter@1ce24091
+2020-07-30 15:43:25,549 [main] INFO com.spartacus.utilities.APIHelper - camera{
+   "type" : "productCategorySearchPageWsDTO",
+   "currentQuery" : {
+      "query" : {
+         "value" : "camera:relevance"
+      },
+      "url" : "/search?q=camera%3Arelevance"
+   },
+   "freeTextSearch" : "camera",
+   "pagination" : {
+      "currentPage" : 0,
+      "pageSize" : 20,
+      "sort" : "relevance",
+      "totalPages" : 7,
+      "totalResults" : 140
+   },
+   "products" : [ {
+      "availableForPickup" : true,
+      "code" : "932577",
+      "configurable" : false,
+      "configuratorType" : "",
+      "description" : "Perfect for photographers on the run. This lightweight, yet professional-quality tripod stands 53 in. (1.35 m) tall fully extended and folds to 20.9 in. (53 cm) for easy storage.<br/>- Hard anodized aluminum legs <br/>- Easy cam action leg locks <br/>- Anti-skid rubber feet <br/>- 3-way adjustable head <br/>- Quick release camera attachment plate <br/>- Easy to read bubble level <br/>- Handy, nylon carrying case",
+      "manufacturer" : "Kodak",
+      "multidimensional" : false,
+      "name" : "Digital <em class=\"search-results-highlight\">Camera</em> Tripod",
+      "price" : {
+         "currencyIso" : "USD",
+         "formattedValue" : "$24.47",
+         "priceType" : "BUY",
+         "value" : 24.47
+      },
+      "priceRange" : {
+      },
+      "stock" : {
+         "stockLevelStatus" : "inStock"
+      },
+      "summary" : "Digital <em class=\"search-results-highlight\">Camera</em> Tripod - tripod stands 1.35 m, 3-way adjustable head",
+      "url" : "/Open-Catalogue/Cameras/Digital-Cameras/Digital-SLR/Tripods/Digital-Camera-Tripod/p/932577"
+   }, {
+      "availableForPickup" : true,
+      "averageRating" : 4.5,
+      "code" : "300938",
+      "configurable" : false,
+      "configuratorType" : "",
+      "description" : "Get point and shoot simplicity plus crisp, true-to-life photos with this stylish and easy-to-use camera.<br/><br/>Get close in with 4x digital zoom, review via the clear 3.8 cm LCD then print great 10 × 15 cm photos and enlargements up to poster size.",
+      "manufacturer" : "HP",
+      "multidimensional" : false,
+      "name" : "Photosmart E317 Digital <em class=\"search-results-highlight\">Camera</em>",
+      "price" : {
+         "currencyIso" : "USD",
+         "formattedValue" : "$114.12",
+         "priceType" : "BUY",
+         "value" : 114.12
+      },
+      "priceRange" : {
+      },
+      "stock" : {
+         "stockLevelStatus" : "inStock"
+      },
+      "summary" : "Point and shoot simplicity in a 5 MP <em class=\"search-results-highlight\">camera</em>.",
+      "url" : "/Open-Catalogue/Cameras/Digital-Cameras/Digital-Compacts/Photosmart-E317-Digital-Camera/p/300938"
+   }, {
+      "availableForPickup" : true,
+      "averageRating" : 2.3333333333333335,
+      "code" : "489702",
+      "configurable" : false,
+      "configuratorType" : "",
+      "description" : "- 8.0 MP for prints up to 30 × 40 in. (76 × 102 cm)<br/>- 5X SCHNEIDER-KREUZNACH VARIOGON Optical Zoom Lens<br/>- 2.5 in. (6.4 cm) indoor/outdoor color display<br/>- KODAK PERFECT TOUCH Technology<br/>- Smart scene mode<br/>- Advanced video features<br/>-",
+      "manufacturer" : "Kodak",
+      "multidimensional" : false,
+      "name" : "DIGITAL <em class=\"search-results-highlight\">CAMERA</em> EASYSHARE C875",
+      "price" : {
+         "currencyIso" : "USD",
+         "formattedValue" : "$227.24",
+         "priceType" : "BUY",
+         "value" : 227.24
+      },
+      "priceRange" : {
+      },
+      "stock" : {
+         "stockLevelStatus" : "inStock"
+      },
+      "summary" : "EASYSHARE C875 Zoom Digital <em class=\"search-results-highlight\">Camera</em>, 8 MP, 2.5\"\" LCD",
+      "url" : "/Open-Catalogue/Cameras/Digital-Cameras/Digital-Compacts/DIGITAL-CAMERA-EASYSHARE-C875/p/489702"
+   }, {
+      "availableForPickup" : true,
+      "averageRating" : 4.5,
+      "code" : "149243",
+      "configurable" : false,
+      "configuratorType" : "",
+      "manufacturer" : "Sony",
+      "multidimensional" : false,
+      "name" : "<em class=\"search-results-highlight\">CAMERA</em> TAPE DIGITAL8 90MIN 2PK",
+      "price" : {
+         "currencyIso" : "USD",
+         "formattedValue" : "$19.69",
+         "priceType" : "BUY",
+         "value" : 19.69
+      },
+      "priceRange" : {
+      },
+      "stock" : {
+         "stockLevelStatus" : "inStock"
+      },
+      "url" : "/Open-Catalogue/Cameras/Camera-Accessories-%26-Supplies/Blank-Video-Tapes/CAMERA-TAPE-DIGITAL8-90MIN-2PK/p/149243"
+   }, {
+      "availableForPickup" : true,
+      "averageRating" : 3.3333333333333335,
+      "code" : "325414",
+      "configurable" : false,
+      "configuratorType" : "",
+      "description" : "Imagine. Invent. Inspire.<br/>  From sky-scraping cliffs to kids’ soccer games, the KODAK EASYSHARE Z730 Zoom Digital Camera can capture it all. <br/> Zero in on the action with the Z730's SCHNEIDER-KREUZNACH VARIOGON 4X optical zoom lens <br/> Get exceptional-quality prints up to 20 × 30 in. (50 × 75 cm) with 5.0 MP <br/> Get rich, vibrant color under a variety of lighting conditions with the exclusive KODAK Color Science Chip <br/> Advanced manual and custom controls, including selectable aperture priority, shutter priority, and full manual mode <br/>",
+      "manufacturer" : "Kodak",
+      "multidimensional" : false,
+      "name" : "EASYSHARE Z730 Zoom Digital <em class=\"search-results-highlight\">Camera</em>",
+      "price" : {
+         "currencyIso" : "USD",
+         "formattedValue" : "$147.04",
+         "priceType" : "BUY",
+         "value" : 147.04
+      },
+      "priceRange" : {
+      },
+      "stock" : {
+         "stockLevelStatus" : "inStock"
+      },
+      "summary" : "EASYSHARE Z730 Zoom Digital <em class=\"search-results-highlight\">Camera</em>",
+      "url" : "/Open-Catalogue/Cameras/Digital-Cameras/Digital-Compacts/EASYSHARE-Z730-Zoom-Digital-Camera/p/325414"
+   }, {
+      "availableForPickup" : true,
+      "code" : "726510",
+      "configurable" : false,
+      "configuratorType" : "",
+      "description" : "Realise your photographic vision with the EOS 30D. Speed and precision in a tough magnesium alloy body, with access to over 60 EF lenses and the range of EOS accessories for unlimited creativity.<br/><br/><b>Features</b><br/>-8.2 MP CMOS sensor.<br/>-5fps, 30 JPEG image burst.<br/>-2.5\"\" LCD.<br/>-Picture Style image processing.<br/>-Spot metering & 9-point AF.<br/>-DIGIC II.<br/>-Digital Photo Professional software.<br/>-Magnesium alloy body.<br/>-Compatible with all EF/EF-S lenses and EX Speedlite flashes.<br/>-Connectivity.<br/><br/><b>Designed to inspire. Built to last.</b><br/><br/><b>CMOS sensor</b><br/>An 8.2 Megapixel CMOS sensor provides the sensitivity needed for clean, detailed images with fine colour gradation. Large sensor pixels allow for wide dynamic range and reduced noise at higher ISO speeds. The 22.5 × 15mm sensor size adds an effective 1.6x increase to the focal length of EF lenses, extending reach at the telephoto end.<br/><br/><b>5 fps shooting</b><br/>The camera delivers fast 5 fps shooting for continuous bursts of up to 30 large JPEG images (11 in RAW). A new 3 fps shooting mode provides greater control for variable-speed sequences. <br/><br/><b>Large LCD</b><br/>Illuminated by 6 LEDs, the bright 2.5\"\" 230K pixel LCD is viewable from 85° in almost all directions.<br/><br/><b>Picture Style</b><br/>Picture Style pre-sets provide easy control over image processing parameters. Each style offers a different colour response - similar to the way film types are changed to achieve different effects. Sharpness, contrast, colour tone and saturation are adjustable within each pre-set.<br/><br/><b>Spot metering</b><br/>Spot metering allows you to base the optimal exposure value on a concentrated spot (3.5%) in the scene - useful in high-contrast scenes where precise metering control is required.<br/><br/><b>High precision 9-point wide-area AF</b><br/>Select from one of nine fixed focusing points across the scene for fast, accurate focusing even with off-centre subjects and 'rule-of-thirds' compositions.<br/><br/><b>DIGIC II</b><br/>DIGIC II renders colours with precision and accuracy. Fast and efficient, DIGIC II prolongs battery life and delivers instant 0.15 second start up time.<br/><br/><b>Digital Photo Professional software</b><br/>The Digital Photo Professional software permits high-speed processing of lossless RAW images.<br/><br/><b>Magnesium alloy body</b><br/>A compact magnesium alloy body provides durability while keeping the camera's weight down to 700 grams.<br/><br/><b>EF lenses and accessories</b><br/>The EOS 30D is compatible with over 60 EF lenses (including the EF-S Series) and all EX Series Speedlite flash units. The E-TTL II flash algorithm passes key shooting data from compatible EF lenses - such as focal length, point of focus and distance information - to the Speedlites for consistently accurate flash exposures. Untethered shooting is possible with the optional Wireless File Transmitter WFT-E1.<br/><br/><b>Connectivity</b><br/>Video Out allows reviewing on a TV screen. Connect with USB 2.0 Hi-speed for fast data transfers.",
+      "manufacturer" : "Canon",
+      "multidimensional" : false,
+      "name" : "EOS 30D SLR-Digital <em class=\"search-results-highlight\">Camera</em> 8 Mpix",
+      "price" : {
+         "currencyIso" : "USD",
+         "formattedValue" : "$1,035.25",
+         "priceType" : "BUY",
+         "value" : 1035.25
+      },
+      "priceRange" : {
+      },
+      "stock" : {
+         "stockLevelStatus" : "inStock"
+      },
+      "summary" : "Realise your photographic vision with the EOS 30D.",
+      "url" : "/Open-Catalogue/Cameras/Digital-Cameras/Digital-SLR/EOS-30D-SLR-Digital-Camera-8-Mpix/p/726510"
+   }, {
+      "availableForPickup" : true,
+      "averageRating" : 4.625,
+      "code" : "280916",
+      "configurable" : false,
+      "configuratorType" : "",
+      "description" : "Canyon is a growing world standard company that manufactures computer components and peripherals. Canyon products provide top quality, high performance and usability, while offered services and technical support make Canyon products fully customer-orientated.",
+      "manufacturer" : "Canyon",
+      "multidimensional" : false,
+      "name" : "Web <em class=\"search-results-highlight\">Camera</em> (100KpixelM CMOS, 640X480, USB 1.1) Black",
+      "price" : {
+         "currencyIso" : "USD",
+         "formattedValue" : "$8.20",
+         "priceType" : "BUY",
+         "value" : 8.2
+      },
+      "priceRange" : {
+      },
+      "stock" : {
+         "stockLevelStatus" : "inStock"
+      },
+      "summary" : "100K Webcam with blue LED & Rubber coating WITH CLIP",
+      "url" : "/Open-Catalogue/Cameras/Webcams/Web-Camera-%28100KpixelM-CMOS%2C-640X480%2C-USB-1-1%29-Black/p/280916"
+   }, {
+      "availableForPickup" : true,
+      "averageRating" : 2.6,
+      "code" : "779841",
+      "configurable" : false,
+      "configuratorType" : "",
+      "description" : "An Easy Way to Capture Great Indoor and Outdoor Memories<br/><br/>-Unbeatable picture sharpness 800 speed film for clear, sharp pictures.<br/>-23% better pictures compared to any 400 film speed camera.<br/>-Simple manual flash with 4 to 10 foot (1.2 to 3 meters) flash range. Must charge before every picture.",
+      "manufacturer" : "Kodak",
+      "multidimensional" : false,
+      "name" : "FUN Flash Single Use <em class=\"search-results-highlight\">Camera</em>, 27+12 pic",
+      "price" : {
+         "currencyIso" : "USD",
+         "formattedValue" : "$3.45",
+         "priceType" : "BUY",
+         "value" : 3.45
+      },
+      "priceRange" : {
+      },
+      "stock" : {
+         "stockLevelStatus" : "inStock"
+      },
+      "summary" : "An Easy Way to Capture Great Indoor and Outdoor Memories",
+      "url" : "/Open-Catalogue/Cameras/Film-cameras/FUN-Flash-Single-Use-Camera%2C-27%2B12-pic/p/779841"
+   }, {
+      "availableForPickup" : true,
+      "averageRating" : 2.608695652173913,
+      "code" : "726511",
+      "configurable" : false,
+      "configuratorType" : "",
+      "description" : "Realise your photographic vision with the EOS 30D. Speed and precision in a tough magnesium alloy body, with access to over 60 EF lenses and the range of EOS accessories for unlimited creativity.<br/><br/><b>Features</b><br/>-8.2 MP CMOS sensor.<br/>-5fps, 30 JPEG image burst.<br/>-2.5\"\" LCD.<br/>-Picture Style image processing.<br/>-Spot metering & 9-point AF.<br/>-DIGIC II.<br/>-Digital Photo Professional software.<br/>-Magnesium alloy body.<br/>-Compatible with all EF/EF-S lenses and EX Speedlite flashes.<br/>-Connectivity.<br/><br/><b>Designed to inspire. Built to last.</b><br/><br/><b>CMOS sensor</b><br/>An 8.2 Megapixel CMOS sensor provides the sensitivity needed for clean, detailed images with fine colour gradation. Large sensor pixels allow for wide dynamic range and reduced noise at higher ISO speeds. The 22.5 × 15mm sensor size adds an effective 1.6x increase to the focal length of EF lenses, extending reach at the telephoto end.<br/><br/><b>5 fps shooting</b><br/>The camera delivers fast 5 fps shooting for continuous bursts of up to 30 large JPEG images (11 in RAW). A new 3 fps shooting mode provides greater control for variable-speed sequences. <br/><br/><b>Large LCD</b><br/>Illuminated by 6 LEDs, the bright 2.5\"\" 230K pixel LCD is viewable from 85° in almost all directions.<br/><br/><b>Picture Style</b><br/>Picture Style pre-sets provide easy control over image processing parameters. Each style offers a different colour response - similar to the way film types are changed to achieve different effects. Sharpness, contrast, colour tone and saturation are adjustable within each pre-set.<br/><br/><b>Spot metering</b><br/>Spot metering allows you to base the optimal exposure value on a concentrated spot (3.5%) in the scene - useful in high-contrast scenes where precise metering control is required.<br/><br/><b>High precision 9-point wide-area AF</b><br/>Select from one of nine fixed focusing points across the scene for fast, accurate focusing even with off-centre subjects and 'rule-of-thirds' compositions.<br/><br/><b>DIGIC II</b><br/>DIGIC II renders colours with precision and accuracy. Fast and efficient, DIGIC II prolongs battery life and delivers instant 0.15 second start up time.<br/><br/><b>Digital Photo Professional software</b><br/>The Digital Photo Professional software permits high-speed processing of lossless RAW images.<br/><br/><b>Magnesium alloy body</b><br/>A compact magnesium alloy body provides durability while keeping the camera's weight down to 700 grams.<br/><br/><b>EF lenses and accessories</b><br/>The EOS 30D is compatible with over 60 EF lenses (including the EF-S Series) and all EX Series Speedlite flash units. The E-TTL II flash algorithm passes key shooting data from compatible EF lenses - such as focal length, point of focus and distance information - to the Speedlites for consistently accurate flash exposures. Untethered shooting is possible with the optional Wireless File Transmitter WFT-E1.<br/><br/><b>Connectivity</b><br/>Video Out allows reviewing on a TV screen. Connect with USB 2.0 Hi-speed for fast data transfers.",
+      "manufacturer" : "Canon",
+      "multidimensional" : false,
+      "name" : "EOS 30D SLR-Digital <em class=\"search-results-highlight\">Camera</em> 8 Mpix inkl. EF-S 18-55mm",
+      "price" : {
+         "currencyIso" : "USD",
+         "formattedValue" : "$1,088.28",
+         "priceType" : "BUY",
+         "value" : 1088.28
+      },
+      "priceRange" : {
+      },
+      "stock" : {
+         "stockLevelStatus" : "inStock"
+      },
+      "summary" : "Realise your photographic vision with the EOS 30D with the EF-S 18-55mm lens.",
+      "url" : "/Open-Catalogue/Cameras/Digital-Cameras/Digital-SLR/EOS-30D-SLR-Digital-Camera-8-Mpix-inkl-EF-S-18-55mm/p/726511"
+   }, {
+      "availableForPickup" : true,
+      "averageRating" : 2.4545454545454546,
+      "code" : "1099285",
+      "configurable" : false,
+      "configuratorType" : "",
+      "description" : "Canon Monopod 100 for SLR Cameras & Lenses",
+      "manufacturer" : "Canon",
+      "multidimensional" : false,
+      "name" : "Monopod 100 - Floor Standing Monopod",
+      "price" : {
+         "currencyIso" : "USD",
+         "formattedValue" : "$23.91",
+         "priceType" : "BUY",
+         "value" : 23.91
+      },
+      "priceRange" : {
+      },
+      "stock" : {
+         "stockLevelStatus" : "inStock"
+      },
+      "summary" : "Monopod 100 - Floor Standing Monopod, 64.5\"\" Height, 4.4 lb",
+      "url" : "/Open-Catalogue/Cameras/Digital-Cameras/Digital-SLR/Tripods/Monopod-100---Floor-Standing-Monopod/p/1099285"
+   }, {
+      "availableForPickup" : true,
+      "averageRating" : 2.3846153846153846,
+      "code" : "3470545",
+      "configurable" : false,
+      "configuratorType" : "",
+      "description" : "<b>Fashion and function have come together</b><br/><br/>A 5X optical zoom lens gets you closer. Kodak’s Smart Capture feature gets you beautiful pictures—automatically.<br/><br/><b>5X optical zoom</b><br/> - The 5X optical zoom lens (35 mm equivalent: 35–175 mm) gets you closer to your subjects without reducing image quality <br/>-  The KODAK AF Optical Zoom Lens captures crisp details <br/><br/><b>Blur reduction</b><br/>- Reduce blur caused by camera shake, subject movement, or fast-action situations <br/>- The camera automatically minimizes the effects of camera shake to deliver clearer, sharper pictures <br/><br/><b>Amazing quality prints with 12 MP</b><br/> -12 MP means you can make stunning prints up to 30 × 40 in. (76 × 102 cm)  <br/> - More megapixels means you can crop and enlarge and still have great picture quality <br/>- However you choose to print—at home, at retail, or online—trust Kodak for picture quality that’s truly exceptional and for memories that will last <br/><br/>   <b>Show off your pictures</b><br/><br/>- Get a good look at your pictures on the big, bright 3.0 in. (7.6 cm) color LCD <br/> - Whether you shoot your pictures vertically or horizontally, view them right side up with auto picture rotation <br/><br/><b>Beautiful pictures, more often—automatically</b><br/><br/><b>Kodak's Smart Capture feature</b><br/>Become a better photographer with a smarter camera. Kodak’s innovative Smart Capture feature automatically identifies the scene and adjusts camera settings for a great picture in just about any environment.<br/><br/>- Intelligent scene detection—detects and analyzes scene conditions <br/>- Intelligent capture control—automatically sets camera settings including exposure, focus and ISO for clear, sharp pictures even in low light and challenging situations <br/>- Intelligent image processing—reduces noise and clears up dark shadows for vibrant, crisp details and true-to-life colors <br/><br/> <b>Don’t miss a shot with Li-Ion rechargeable batteries</b><br/><br/>- Get energy that lasts with the power of the included Li-Ion rechargeable battery and in-camera charging <br/>- Smaller, lighter battery with higher voltage and energy capacity <br/><br/><b>True HD quality: capture pictures in brilliant detail</b><br/><br/><b>HD picture capture</b><br/>- Take stunning HD pictures in 16:9 format <br/>- View your pictures in high definition on an HDTV or other HD devices<br/><br/><b>KODAK Theatre HD Player (optional device)</b><br/>Finally, something everyone will want to watch.<br/><br/>- Enjoy your new pictures and videos on your HDTV instantly, right from your camera’s memory card <br/>- Access pictures from your PC, camera, and online photo sharing sites, wirelessly  <br/>- Wirelessly send and receive pictures with Kodak’s Picture Mail feature <br/>- Create slideshows to your favorite songs <br/>- Experience YouTube™ like never before—videos are brilliantly displayed on your HDTV <br/>- Access Internet radio, podcasts and other web content on your HDTV <br/><br/> <b>Stop thinking about camera settings and start shooting</b><br/><br/>Great technologies let you start shooting right away. And with on-camera features like multimedia slideshow, text tagging, and HD picture capture, taking the shot is just the beginning.<br/><br/><b>Face detection</b><br/>Catch those great smiles—face detection locates faces and automatically adjusts camera settings for great shots of friends and family.<br/><br/><b>High ISO mode</b><br/>See the details in low-light conditions and fast-action situations with high ISO (up to 1600).<br/><br/><b>Multimedia slideshow</b><br/> - Turn your pictures into a creative multimedia slideshow right on your camera <br/>- Set the mood when you choose from pre-loaded sound themes and creative transitions <br/><br/><b>Scene modes and on-camera picture enhancing features</b><br/> - Get the right shot—manually select from the multiple scene and color modes <br/>- Create your perfect shot with cropping and undo-delete <br/>- Panorama stitch mode combines up to three shots into one large picture <br/><br/><b>Text tagging</b><br/>Tag your pictures on-camera, then find and organize them later with multi-field search.<br/><br/><b>Shoot video with ease</b><br/>- Record continuous VGA video (640 × 480) at 30 fps and QVGA video (320 × 240) at 30 fps <br/>- Video print options include 1 and 9-up prints <br/>- QUICKTIME Motion JPEG with audio recording during capture and playback <br/><br/><b>KODAK PERFECT TOUCH Technology in manual mode</b><br/>- Make your pictures as vivid as the moment you took them <br/>- Relive your memories in richer detail <br/>- Clear up dark shadows and reveal better, brighter pictures <br/><br/><b>Internal memory plus</b><br/>- Don’t miss a shot if your memory card becomes full—switch to in-camera memory quickly, thanks to the internal memory plus feature <br/> - 32 MB internal memory and SD/SDHC card compatibility lets you start shooting right out of the box <br/><br/> <b>The simple way to share</b><br/><br/>The M381 is part of the KODAK EASYSHARE System, so sharing your pictures is amazingly simple. Just press Share.<br/><br/><b>One button upload via Share button</b><br/>- Sharing starts right on the back of the camera <br/>- Upload and share your favorite pictures and videos to YouTube™ and KODAK Gallery via the Share button and KODAK EASYSHARE Software <br/><br/><b>KODAK EASYSHARE Software (included)</b><br/>The simplest way to organize, edit, create, and share.<br/><br/><br/>- Organize your pictures with your own tags and star ratings then use the search feature to quickly find any picture in your collection <br/>- Edit your pictures with ease—select from a variety of simple tools that reduce red-eye, improve lighting, remove wrinkles and blemishes, and add text <br/>- Create personalized photo projects online or at home—choose from hundreds of templates and designs to create photobooks, cards, invitations, and much more <br/>- Share your pictures and videos with family and friends at the KODAK Gallery or YouTube™",
+      "manufacturer" : "Kodak",
+      "multidimensional" : false,
+      "name" : "EASYSHARE M381",
+      "price" : {
+         "currencyIso" : "USD",
+         "formattedValue" : "$370.72",
+         "priceType" : "BUY",
+         "value" : 370.72
+      },
+      "priceRange" : {
+      },
+      "stock" : {
+         "stockLevelStatus" : "inStock"
+      },
+      "summary" : "EasyShare M381 12.4 MP, 5X optical, 1 / 2.3 in. CCD, Blue-Grey",
+      "url" : "/Open-Catalogue/Cameras/Digital-Cameras/Digital-Compacts/EASYSHARE-M381/p/3470545"
+   }, {
+      "availableForPickup" : true,
+      "averageRating" : 4.636363636363637,
+      "code" : "492274",
+      "configurable" : false,
+      "configuratorType" : "",
+      "description" : "<b>Multifunction Convergence digital camera</b><br/>The NV3 is not only a great digital camera with 7.2 mega pixels but also a perfect MP3 player, Portable Multimedia Player, Digital camcorder, Text Viewer, and much more.<br/><br/><b>Enjoy music & movies and more in immersive two-channel sound</b><br/>The NV3 also has stereo speakers built in for a richer sound experience. It means you can enjoy movies with realistic sound. Moreover, NV3 has a special audio processing chip delivering 3D, Jazz, Rock, and other sound effects.<br/><br/><b>Wise Shot</b><br/>This feature takes the same shot twice, once with ASR and the other with flash. It then compares the results and lets you have the best picture of the two (i.e. flash shot if it is better than the ASR shot, and vice versa).<br/><br/><b>Advanced Shake Reduction</b><br/>The ASR technology prevents the degradation of image clarity and colour common to flash photography. With ASR the effects of camera shake are reduced in lower light conditions. You can even take well exposed, sharper pictures in low light without using a flash at all. It guarantees brighter and more natural pictures.<br/><br/><b>ISO1000 Standards in Action</b><br/>NV series has an auto sensitivity feature that automatically adjusts sensitivity according to the ambient exposure conditions up to ISO 1000. The high sensitivity setting of ISO 1000 enables you to take clear indoor pictures in the dark without camera shake and the resulting image blurring.<br/><br/><b>Multiple ways to Recharge</b><br/>Recharging can be done using a cradle or a 24 pin USB cable, as well as by using a detachable cable. Connect the camera to a PC using a 24 pin USB cable, use the adaptor cable to plug it into a power supply, or use any other convenient method to recharge your camera. <br/><br/><b>Advanced Movie Function</b><br/>The NV series supports MPEG-4 VGA (640x480, 30fps) and TVD (720x480, 20fps - NV3) size for an enhanced video shooting experience. You can even edit your movies on the camera itself, making these clever models brilliantly portable but powerful movie-makers.<br/><br/><b>Scene Mode</b><br/>11 Scene Modes and Text Recognition capability NV series have various scene modes to obtain the best picture result in a variety of settings.<br/>The scene modes provided are Night Scene, Portrait, Children, Landscape, Text Recognition, Sunset, Dawn, Backlight, Fireworks, Beach and Snow.",
+      "manufacturer" : "Samsung",
+      "multidimensional" : false,
+      "name" : "NV3",
+      "price" : {
+         "currencyIso" : "USD",
+         "formattedValue" : "$249.99",
+         "priceType" : "BUY",
+         "value" : 249.99
+      },
+      "priceRange" : {
+      },
+      "stock" : {
+         "stockLevelStatus" : "inStock"
+      },
+      "summary" : "The NV3 is not only a great digital <em class=\"search-results-highlight\">camera</em> with 7.2 mega pixels but also a perfect MP3 player, Portable Multimedia Player, Digital camcorder, Text Viewer, and much more.",
+      "url" : "/Open-Catalogue/Cameras/Digital-Cameras/Digital-Compacts/NV3/p/492274"
+   }, {
+      "availableForPickup" : true,
+      "averageRating" : 4.833333333333333,
+      "code" : "816780",
+      "configurable" : false,
+      "configuratorType" : "",
+      "description" : "10.2 effective megapixel Digital Single Lens Reflex (D-SLR) camera. High Zoom Lens kit (DT 18-200mm F3.5-6.3 lens). Generous zoom range from a single, compact lens. A great choice for holidays or photo assignments when you need to travel light without compromising creative possibilities.<br/><br/><b>Features:</b><br/>-Compatible with more than 20 α-mount lenses from Sony and Carl Zeiss plus Konica Minolta lenses with A-type bayonet mount. <br/>-10.2 effective megapixel sensor with high-performance BIONZ image processor. <br/>-APS-C sized primary colour CCD. <br/>-Super SteadyShot optical image stabilisation in camera body reduces camera shake with all lenses. <br/>-D-range Optimiser for automatic image enhancement and contrast optimisation. <br/>-2.5-inch 230k pixel Clear Photo LCD Plus screen. <br/>-High capacity lithium ion battery allows up to 750 shots (CIPA measurement). <br/>-Dual anti-dust system protects CCD sensor during lens exchange.",
+      "manufacturer" : "Sony",
+      "multidimensional" : false,
+      "name" : "DSLR-A100H",
+      "price" : {
+         "currencyIso" : "USD",
+         "formattedValue" : "$987.27",
+         "priceType" : "BUY",
+         "value" : 987.27
+      },
+      "priceRange" : {
+      },
+      "stock" : {
+         "stockLevelStatus" : "inStock"
+      },
+      "summary" : "Digital SLR <em class=\"search-results-highlight\">Camera</em> DSLR-A100H",
+      "url" : "/Open-Catalogue/Cameras/Digital-Cameras/Digital-SLR/DSLR-A100H/p/816780"
+   }, {
+      "availableForPickup" : true,
+      "code" : "3514519",
+      "configurable" : false,
+      "configuratorType" : "",
+      "description" : "<b>Experience the whole picture</b><br/><br/>Now it's easy to grab breathtaking wide-screen views of that landscape or city scene. Sweep Panorama mode shoots a high-speed burst of frames as you sweep the camera from side to side (or up and down!). Images are stitched together automatically by the camera to create one amazing panoramic image.<br/><br/><b>Sensational images, even in low light</b><br/><br/>Many cameras struggle to produce crisp, clear images in low light. The revolutionary Exmor R™ CMOS sensor boosts sensitivity while reducing image noise for brilliant, detail-packed pictures.<br/><br/><b>Your own personal photographer</b><br/><br/>The optional IPT-DS1 Party-shot turns Cyber-shot into your own personal photographer, automatically shooting beautifully-framed pictures of everyone in the room - including you.<br/><br/><b>Pack more into every scene</b><br/><br/>Dramatic landscapes, architectural shots, interiors and even family scenes can produce disappointing results when a scene gets cut off at the edges. A wide angle lens lets you pack more into the picture without having to stand further back from the subject.<br/><br/><b>The camera that thinks it’s a camcorder</b><br/><br/>Left your camcorder behind? Don't worry: now you can capture crisp, clear HD movie clips at an incredible 30 frames per second for smooth, clear action. Watch the results on your BRAVIA television: you'll be amazed by the quality, detail and colour.",
+      "manufacturer" : "Sony",
+      "multidimensional" : false,
+      "name" : "DSC-WX1",
+      "price" : {
+         "currencyIso" : "USD",
+         "formattedValue" : "$159.34",
+         "priceType" : "BUY",
+         "value" : 159.34
+      },
+      "priceRange" : {
+      },
+      "stock" : {
+         "stockLevelStatus" : "inStock"
+      },
+      "summary" : "DSC-WX1 - 10.2 megapixels, Exmor R CMOS sensor, f/2.4 'G Lens' with 5x zoom/24mm wide angle & HD movie",
+      "url" : "/Open-Catalogue/Cameras/Digital-Cameras/Digital-Compacts/DSC-WX1/p/3514519"
+   }, {
+      "availableForPickup" : true,
+      "code" : "3514520",
+      "configurable" : false,
+      "configuratorType" : "",
+      "description" : "<b>Experience the whole picture</b><br/><br/>Now it's easy to grab breathtaking wide-screen views of that landscape or city scene. Sweep Panorama mode shoots a high-speed burst of frames as you sweep the camera from side to side (or up and down!). Images are stitched together automatically by the camera to create one amazing panoramic image.<br/><br/><b>Sensational images, even in low light</b><br/><br/>Many cameras struggle to produce crisp, clear images in low light. The revolutionary Exmor R™ CMOS sensor boosts sensitivity while reducing image noise for brilliant, detail-packed pictures.<br/><br/><b>Your own personal photographer</b><br/><br/>The optional IPT-DS1 Party-shot turns Cyber-shot into your own personal photographer, automatically shooting beautifully-framed pictures of everyone in the room - including you.<br/><br/><b>Pack more into every scene</b><br/><br/>Dramatic landscapes, architectural shots, interiors and even family scenes can produce disappointing results when a scene gets cut off at the edges. A wide angle lens lets you pack more into the picture without having to stand further back from the subject.<br/><br/><b>The camera that thinks it’s a camcorder</b><br/><br/>Left your camcorder behind? Don't worry: now you can capture crisp, clear HD movie clips at an incredible 30 frames per second for smooth, clear action. Watch the results on your BRAVIA television: you'll be amazed by the quality, detail and colour.",
+      "manufacturer" : "Sony",
+      "multidimensional" : false,
+      "name" : "DSC-WX1",
+      "price" : {
+         "currencyIso" : "USD",
+         "formattedValue" : "$309.17",
+         "priceType" : "BUY",
+         "value" : 309.17
+      },
+      "priceRange" : {
+      },
+      "stock" : {
+         "stockLevelStatus" : "inStock"
+      },
+      "summary" : "DSC-WX1 - 10.2 megapixels, Exmor R CMOS sensor, f/2.4 'G Lens' with 5x zoom/24mm wide angle & HD movie",
+      "url" : "/Open-Catalogue/Cameras/Digital-Cameras/Digital-Compacts/DSC-WX1/p/3514520"
+   }, {
+      "availableForPickup" : true,
+      "averageRating" : 2.375,
+      "code" : "3514521",
+      "configurable" : false,
+      "configuratorType" : "",
+      "description" : "<b>Experience the whole picture</b><br/><br/>Now it's easy to grab breathtaking wide-screen views of that landscape or city scene. Sweep Panorama mode shoots a high-speed burst of frames as you sweep the camera from side to side (or up and down!). Images are stitched together automatically by the camera to create one amazing panoramic image.<br/><br/><b>Sensational images, even in low light</b><br/><br/>Many cameras struggle to produce crisp, clear images in low light. The revolutionary Exmor R™ CMOS sensor boosts sensitivity while reducing image noise for brilliant, detail-packed pictures.<br/><br/><b>Your own personal photographer</b><br/><br/>The optional IPT-DS1 Party-shot turns Cyber-shot into your own personal photographer, automatically shooting beautifully-framed pictures of everyone in the room - including you.<br/><br/><b>Pack more into every scene</b><br/><br/>Dramatic landscapes, architectural shots, interiors and even family scenes can produce disappointing results when a scene gets cut off at the edges. A wide angle lens lets you pack more into the picture without having to stand further back from the subject.<br/><br/><b>The camera that thinks it’s a camcorder</b><br/><br/>Left your camcorder behind? Don't worry: now you can capture crisp, clear HD movie clips at an incredible 30 frames per second for smooth, clear action. Watch the results on your BRAVIA television: you'll be amazed by the quality, detail and colour.",
+      "manufacturer" : "Sony",
+      "multidimensional" : false,
+      "name" : "DSC-WX1",
+      "price" : {
+         "currencyIso" : "USD",
+         "formattedValue" : "$626.65",
+         "priceType" : "BUY",
+         "value" : 626.65
+      },
+      "priceRange" : {
+      },
+      "stock" : {
+         "stockLevelStatus" : "inStock"
+      },
+      "summary" : "DSC-WX1 - 10.2 megapixels, Exmor R CMOS sensor, f/2.4 'G Lens' with 5x zoom/24mm wide angle & HD movie",
+      "url" : "/Open-Catalogue/Cameras/Digital-Cameras/Digital-SLR/DSC-WX1/p/3514521"
+   }, {
+      "availableForPickup" : true,
+      "averageRating" : 4.764705882352941,
+      "code" : "1366053",
+      "configurable" : false,
+      "configuratorType" : "",
+      "description" : "Create it… Store it… Share it, with an ICIDU SDHC Card. Save image, sound and data files on compatible devices such as digital cameras, camcorders and MP3-players.",
+      "manufacturer" : "ICIDU",
+      "multidimensional" : false,
+      "name" : "SD High Capacity Card 8GB",
+      "price" : {
+         "currencyIso" : "USD",
+         "formattedValue" : "$20.00",
+         "priceType" : "BUY",
+         "value" : 20.0
+      },
+      "priceRange" : {
+      },
+      "stock" : {
+         "stockLevelStatus" : "inStock"
+      },
+      "summary" : "SD High Capacity Card 8GB",
+      "url" : "/Open-Catalogue/Data-storage/Flash-Memory/SD-High-Capacity-Card-8GB/p/1366053"
+   }, {
+      "availableForPickup" : true,
+      "averageRating" : 4.4,
+      "code" : "872912",
+      "configurable" : false,
+      "configuratorType" : "",
+      "description" : "Create it… Store it… Share it, with an ICIDU SD Card. Save image, sound and data files on compatible devices such as digital cameras, camcorders and MP3-players.",
+      "manufacturer" : "ICIDU",
+      "multidimensional" : false,
+      "name" : "Secure Digital Card 2GB",
+      "price" : {
+         "currencyIso" : "USD",
+         "formattedValue" : "$10.00",
+         "priceType" : "BUY",
+         "value" : 10.0
+      },
+      "priceRange" : {
+      },
+      "stock" : {
+         "stockLevelStatus" : "inStock"
+      },
+      "summary" : "Secure Digital Card 2GB",
+      "url" : "/Open-Catalogue/Data-storage/Flash-Memory/Secure-Digital-Card-2GB/p/872912"
+   }, {
+      "availableForPickup" : true,
+      "averageRating" : 4.461538461538462,
+      "code" : "1366001",
+      "configurable" : false,
+      "configuratorType" : "",
+      "description" : "Create it… Store it… Share it, with an ICIDU SDHC Card. Save image, sound and data files on compatible devices such as digital cameras, camcorders and MP3-players.",
+      "manufacturer" : "ICIDU",
+      "multidimensional" : false,
+      "name" : "SD High Capacity Card 4GB",
+      "price" : {
+         "currencyIso" : "USD",
+         "formattedValue" : "$12.00",
+         "priceType" : "BUY",
+         "value" : 12.0
+      },
+      "priceRange" : {
+      },
+      "stock" : {
+         "stockLevelStatus" : "inStock"
+      },
+      "summary" : "SD High Capacity Card 4GB",
+      "url" : "/Open-Catalogue/Data-storage/Flash-Memory/SD-High-Capacity-Card-4GB/p/1366001"
+   }, {
+      "availableForPickup" : true,
+      "averageRating" : 2.4782608695652173,
+      "code" : "1298094",
+      "configurable" : false,
+      "configuratorType" : "",
+      "description" : "- Compatible with InfoLITHIUM M series batteries for Camcorders, Cyber-shot and DSLR cameras.<br/>- Quick recharge.<br/>- Includes LCD panel showing battery status.<br/>- Relay type recharges two batteries.",
+      "manufacturer" : "Sony",
+      "multidimensional" : false,
+      "name" : "AC-VQ900AM",
+      "price" : {
+         "currencyIso" : "USD",
+         "formattedValue" : "$168.52",
+         "priceType" : "BUY",
+         "value" : 168.52
+      },
+      "priceRange" : {
+      },
+      "stock" : {
+         "stockLevelStatus" : "inStock"
+      },
+      "summary" : "AC Adaptor charger",
+      "url" : "/Open-Catalogue/Components/Power-Supplies/Battery-Chargers/AC-VQ900AM/p/1298094"
+   } ],
+   "sorts" : [ {
+      "code" : "relevance",
+      "name" : "Relevance",
+      "selected" : true
+   }, {
+      "code" : "topRated",
+      "name" : "Top Rated",
+      "selected" : false
+   }, {
+      "code" : "name-asc",
+      "name" : "Name (ascending)",
+      "selected" : false
+   }, {
+      "code" : "name-desc",
+      "name" : "Name (descending)",
+      "selected" : false
+   }, {
+      "code" : "price-asc",
+      "name" : "Price (lowest first)",
+      "selected" : false
+   }, {
+      "code" : "price-desc",
+      "name" : "Price (highest first)",
+      "selected" : false
+   } ]
+}
+2020-07-30 15:43:25,564 [main] INFO com.spartacus.utilities.APIHelper - cameraDate=Thu, 30 Jul 2020 10:13:39 GMT
+Server=
+X-Frame-Options=SAMEORIGIN
+X-Anonymous-Consents=%5B%7B%22templateCode%22%3A%22MARKETING_NEWSLETTER%22%2C%22templateVersion%22%3A0%2C%22consentState%22%3Anull%7D%2C%7B%22templateCode%22%3A%22PROFILE%22%2C%22templateVersion%22%3A0%2C%22consentState%22%3Anull%7D%2C%7B%22templateCode%22%3A%22STORE_USER_INFORMATION%22%2C%22templateVersion%22%3A0%2C%22consentState%22%3Anull%7D%5D
+X-Total-Count=140
+Cache-Control=no-cache, no-store, max-age=0, must-revalidate
+Pragma=no-cache
+Expires=0
+Strict-Transport-Security=max-age=16070400 ; includeSubDomains
+X-XSS-Protection=1; mode=block
+X-Content-Type-Options=nosniff
+Content-Type=application/json;charset=UTF-8
+Vary=Accept-Encoding,User-Agent
+Content-Encoding=gzip
+Set-Cookie=ROUTE=.api-59b55566f5-msp7g; Path=/; Secure; HttpOnly; SameSite=None
+Content-Length=9146
+Keep-Alive=timeout=5, max=100
+Connection=Keep-Alive
+2020-07-30 15:43:25,565 [main] INFO com.spartacus.utilities.APIHelper - Detailed Info..
+2020-07-30 15:43:25,622 [main] INFO com.spartacus.utilities.APIHelper - cameraio.restassured.internal.ValidatableResponseImpl@51841ac6
+2020-07-30 15:43:25,656 [main] INFO com.spartacus.steps.BeforeAfterStepDefinition - Properties objects are initialized, hence skip this method
+2020-07-30 15:43:25,657 [main] INFO com.spartacus.steps.BeforeAfterStepDefinition - Reports Initialization::com.aventstack.extentreports.reporter.ExtentHtmlReporter@1ce24091
+2020-07-30 15:43:26,737 [main] INFO com.spartacus.utilities.APIHelper - camer{
+   "suggestions" : [ {
+      "value" : "cameras"
+   }, {
+      "value" : "camera"
+   } ]
+}
+2020-07-30 15:43:26,738 [main] INFO com.spartacus.utilities.APIHelper - camerDate=Thu, 30 Jul 2020 10:13:40 GMT
+Server=
+X-Frame-Options=SAMEORIGIN
+X-Anonymous-Consents=%5B%7B%22templateCode%22%3A%22MARKETING_NEWSLETTER%22%2C%22templateVersion%22%3A0%2C%22consentState%22%3Anull%7D%2C%7B%22templateCode%22%3A%22PROFILE%22%2C%22templateVersion%22%3A0%2C%22consentState%22%3Anull%7D%2C%7B%22templateCode%22%3A%22STORE_USER_INFORMATION%22%2C%22templateVersion%22%3A0%2C%22consentState%22%3Anull%7D%5D
+Cache-Control=no-cache, no-store, max-age=0, must-revalidate
+Pragma=no-cache
+Expires=0
+Strict-Transport-Security=max-age=16070400 ; includeSubDomains
+X-XSS-Protection=1; mode=block
+X-Content-Type-Options=nosniff
+Content-Type=application/json;charset=UTF-8
+Vary=Accept-Encoding,User-Agent
+Content-Encoding=gzip
+Set-Cookie=ROUTE=.api-59b55566f5-tphtj; Path=/; Secure; HttpOnly; SameSite=None
+Content-Length=75
+Keep-Alive=timeout=5, max=100
+Connection=Keep-Alive
+2020-07-30 15:43:26,738 [main] INFO com.spartacus.utilities.APIHelper - Detailed Info..
+2020-07-30 15:43:26,741 [main] INFO com.spartacus.utilities.APIHelper - camerio.restassured.internal.ValidatableResponseImpl@b606cb6
+2020-07-30 15:43:26,771 [main] INFO com.spartacus.steps.BeforeAfterStepDefinition - Properties objects are initialized, hence skip this method
+2020-07-30 15:43:26,772 [main] INFO com.spartacus.steps.BeforeAfterStepDefinition - Reports Initialization::com.aventstack.extentreports.reporter.ExtentHtmlReporter@1ce24091
+2020-07-30 15:43:27,803 [main] INFO com.spartacus.utilities.APIHelper - CreateCart Status code is expected: 
+2020-07-30 15:43:27,804 [main] INFO com.spartacus.utilities.APIHelper - CreateCart201
+2020-07-30 15:43:27,804 [main] INFO com.spartacus.utilities.APIHelper - CreateCart{
+   "type" : "cartWsDTO",
+   "code" : "0000179793",
+   "entries" : [ ],
+   "guid" : "9b88c493-a772-4919-b5e7-b9617971d56f",
+   "totalItems" : 0,
+   "totalPrice" : {
+      "currencyIso" : "USD",
+      "value" : 0.0
+   },
+   "totalPriceWithTax" : {
+      "currencyIso" : "USD",
+      "value" : 0.0
+   }
+}
+2020-07-30 15:43:29,003 [main] INFO com.spartacus.utilities.APIHelper - ATC{
+   "entry" : {
+      "configurationInfos" : [ ],
+      "entryNumber" : 0,
+      "product" : {
+         "availableForPickup" : true,
+         "baseOptions" : [ ],
+         "categories" : [ {
+            "code" : "587",
+            "name" : "Tripods"
+         }, {
+            "code" : "brand_88",
+            "name" : "Kodak"
+         } ],
+         "code" : "932577",
+         "configurable" : false,
+         "manufacturer" : "Kodak",
+         "name" : "Digital Camera Tripod",
+         "purchasable" : true,
+         "stock" : {
+            "stockLevel" : 366,
+            "stockLevelStatus" : "inStock"
+         },
+         "url" : "/Open-Catalogue/Cameras/Digital-Cameras/Digital-SLR/Tripods/Digital-Camera-Tripod/p/932577"
+      },
+      "quantity" : 3,
+      "totalPrice" : {
+         "currencyIso" : "USD",
+         "value" : 73.41
+      }
+   },
+   "quantity" : 3,
+   "quantityAdded" : 3,
+   "statusCode" : "success"
+}
+2020-07-30 15:43:29,004 [main] INFO com.spartacus.utilities.APIHelper - ATCDate=Thu, 30 Jul 2020 10:13:42 GMT
+Server=
+X-Frame-Options=SAMEORIGIN
+X-Anonymous-Consents=%5B%7B%22templateCode%22%3A%22MARKETING_NEWSLETTER%22%2C%22templateVersion%22%3A0%2C%22consentState%22%3Anull%7D%2C%7B%22templateCode%22%3A%22PROFILE%22%2C%22templateVersion%22%3A0%2C%22consentState%22%3Anull%7D%2C%7B%22templateCode%22%3A%22STORE_USER_INFORMATION%22%2C%22templateVersion%22%3A0%2C%22consentState%22%3Anull%7D%5D
+Cache-Control=no-cache, no-store, max-age=0, must-revalidate
+Pragma=no-cache
+Expires=0
+Strict-Transport-Security=max-age=16070400 ; includeSubDomains
+X-XSS-Protection=1; mode=block
+X-Content-Type-Options=nosniff
+Content-Type=application/json;charset=UTF-8
+Vary=Accept-Encoding,User-Agent
+Content-Encoding=gzip
+Set-Cookie=ROUTE=.api-59b55566f5-tphtj; Path=/; Secure; HttpOnly; SameSite=None
+Content-Length=391
+Keep-Alive=timeout=5, max=100
+Connection=Keep-Alive
+2020-07-30 15:43:29,004 [main] INFO com.spartacus.utilities.APIHelper - Detailed Info..
+2020-07-30 15:43:29,007 [main] INFO com.spartacus.utilities.APIHelper - ATCio.restassured.internal.ValidatableResponseImpl@5634d0f4
+2020-07-30 15:43:29,972 [main] INFO com.spartacus.utilities.APIHelper - FetchCart{
+   "type" : "cartWsDTO",
+   "code" : "0000179793",
+   "entries" : [ {
+      "configurationInfos" : [ ],
+      "entryNumber" : 0,
+      "product" : {
+         "availableForPickup" : true,
+         "baseOptions" : [ ],
+         "categories" : [ {
+            "code" : "587",
+            "name" : "Tripods"
+         }, {
+            "code" : "brand_88",
+            "name" : "Kodak"
+         } ],
+         "code" : "932577",
+         "configurable" : false,
+         "manufacturer" : "Kodak",
+         "name" : "Digital Camera Tripod",
+         "purchasable" : true,
+         "stock" : {
+            "stockLevel" : 366,
+            "stockLevelStatus" : "inStock"
+         },
+         "url" : "/Open-Catalogue/Cameras/Digital-Cameras/Digital-SLR/Tripods/Digital-Camera-Tripod/p/932577"
+      },
+      "quantity" : 3,
+      "totalPrice" : {
+         "currencyIso" : "USD",
+         "value" : 73.41
+      }
+   } ],
+   "guid" : "9b88c493-a772-4919-b5e7-b9617971d56f",
+   "totalItems" : 1,
+   "totalPrice" : {
+      "currencyIso" : "USD",
+      "value" : 73.41
+   },
+   "totalPriceWithTax" : {
+      "currencyIso" : "USD",
+      "value" : 73.41
+   }
+}
+2020-07-30 15:43:29,973 [main] INFO com.spartacus.utilities.APIHelper - FetchCartDate=Thu, 30 Jul 2020 10:13:43 GMT
+Server=
+X-Frame-Options=SAMEORIGIN
+X-Anonymous-Consents=%5B%7B%22templateCode%22%3A%22MARKETING_NEWSLETTER%22%2C%22templateVersion%22%3A0%2C%22consentState%22%3Anull%7D%2C%7B%22templateCode%22%3A%22PROFILE%22%2C%22templateVersion%22%3A0%2C%22consentState%22%3Anull%7D%2C%7B%22templateCode%22%3A%22STORE_USER_INFORMATION%22%2C%22templateVersion%22%3A0%2C%22consentState%22%3Anull%7D%5D
+Cache-Control=no-cache
+Strict-Transport-Security=max-age=16070400 ; includeSubDomains
+X-XSS-Protection=1; mode=block
+X-Content-Type-Options=nosniff
+ETag="039bcdb0f26b3aff2daf30168e33dbf71-gzip"
+Content-Type=application/json;charset=UTF-8
+Vary=Accept-Encoding,User-Agent
+Content-Encoding=gzip
+Set-Cookie=ROUTE=.api-59b55566f5-tphtj; Path=/; Secure; HttpOnly; SameSite=None
+Content-Length=464
+Keep-Alive=timeout=5, max=100
+Connection=Keep-Alive
+2020-07-30 15:43:29,974 [main] INFO com.spartacus.utilities.APIHelper - Detailed Info..
+2020-07-30 15:43:29,977 [main] INFO com.spartacus.utilities.APIHelper - FetchCartio.restassured.internal.ValidatableResponseImpl@75de6341
+2020-07-30 15:43:30,107 [main] INFO com.spartacus.steps.BeforeAfterStepDefinition - Properties objects are initialized, hence skip this method
+2020-07-30 15:43:30,108 [main] INFO com.spartacus.steps.BeforeAfterStepDefinition - Reports Initialization::com.aventstack.extentreports.reporter.ExtentHtmlReporter@1ce24091
+2020-07-30 15:43:31,375 [main] INFO com.spartacus.utilities.APIHelper - CreateCart Status code is expected: 
+2020-07-30 15:43:31,375 [main] INFO com.spartacus.utilities.APIHelper - CreateCart201
+2020-07-30 15:43:31,376 [main] INFO com.spartacus.utilities.APIHelper - CreateCart{
+   "type" : "cartWsDTO",
+   "code" : "0000180814",
+   "entries" : [ ],
+   "guid" : "8c1ebee4-cc72-4b8a-97a4-23c1202f307c",
+   "totalItems" : 0,
+   "totalPrice" : {
+      "currencyIso" : "USD",
+      "value" : 0.0
+   },
+   "totalPriceWithTax" : {
+      "currencyIso" : "USD",
+      "value" : 0.0
+   }
+}
+2020-07-30 15:43:32,583 [main] INFO com.spartacus.utilities.APIHelper - ATC{
+   "entry" : {
+      "configurationInfos" : [ ],
+      "entryNumber" : 0,
+      "product" : {
+         "availableForPickup" : true,
+         "baseOptions" : [ ],
+         "categories" : [ {
+            "code" : "587",
+            "name" : "Tripods"
+         }, {
+            "code" : "brand_88",
+            "name" : "Kodak"
+         } ],
+         "code" : "932577",
+         "configurable" : false,
+         "manufacturer" : "Kodak",
+         "name" : "Digital Camera Tripod",
+         "purchasable" : true,
+         "stock" : {
+            "stockLevel" : 366,
+            "stockLevelStatus" : "inStock"
+         },
+         "url" : "/Open-Catalogue/Cameras/Digital-Cameras/Digital-SLR/Tripods/Digital-Camera-Tripod/p/932577"
+      },
+      "quantity" : 3,
+      "totalPrice" : {
+         "currencyIso" : "USD",
+         "value" : 73.41
+      }
+   },
+   "quantity" : 3,
+   "quantityAdded" : 3,
+   "statusCode" : "success"
+}
+2020-07-30 15:43:32,585 [main] INFO com.spartacus.utilities.APIHelper - ATCDate=Thu, 30 Jul 2020 10:13:46 GMT
+Server=
+X-Frame-Options=SAMEORIGIN
+X-Anonymous-Consents=%5B%7B%22templateCode%22%3A%22MARKETING_NEWSLETTER%22%2C%22templateVersion%22%3A0%2C%22consentState%22%3Anull%7D%2C%7B%22templateCode%22%3A%22PROFILE%22%2C%22templateVersion%22%3A0%2C%22consentState%22%3Anull%7D%2C%7B%22templateCode%22%3A%22STORE_USER_INFORMATION%22%2C%22templateVersion%22%3A0%2C%22consentState%22%3Anull%7D%5D
+Cache-Control=no-cache, no-store, max-age=0, must-revalidate
+Pragma=no-cache
+Expires=0
+Strict-Transport-Security=max-age=16070400 ; includeSubDomains
+X-XSS-Protection=1; mode=block
+X-Content-Type-Options=nosniff
+Content-Type=application/json;charset=UTF-8
+Vary=Accept-Encoding,User-Agent
+Content-Encoding=gzip
+Set-Cookie=ROUTE=.api-59b55566f5-msp7g; Path=/; Secure; HttpOnly; SameSite=None
+Content-Length=391
+Keep-Alive=timeout=5, max=100
+Connection=Keep-Alive
+2020-07-30 15:43:32,586 [main] INFO com.spartacus.utilities.APIHelper - Detailed Info..
+2020-07-30 15:43:32,618 [main] INFO com.spartacus.utilities.APIHelper - ATCio.restassured.internal.ValidatableResponseImpl@2d7a9786
+2020-07-30 15:43:33,901 [main] INFO com.spartacus.utilities.APIHelper - UpdateCart{
+   "entry" : {
+      "configurationInfos" : [ ],
+      "entryNumber" : 0,
+      "product" : {
+         "availableForPickup" : true,
+         "baseOptions" : [ ],
+         "categories" : [ {
+            "code" : "587",
+            "name" : "Tripods"
+         }, {
+            "code" : "brand_88",
+            "name" : "Kodak"
+         } ],
+         "code" : "932577",
+         "configurable" : false,
+         "manufacturer" : "Kodak",
+         "name" : "Digital Camera Tripod",
+         "purchasable" : true,
+         "stock" : {
+            "stockLevel" : 366,
+            "stockLevelStatus" : "inStock"
+         },
+         "url" : "/Open-Catalogue/Cameras/Digital-Cameras/Digital-SLR/Tripods/Digital-Camera-Tripod/p/932577"
+      },
+      "quantity" : 1,
+      "totalPrice" : {
+         "currencyIso" : "USD",
+         "value" : 24.47
+      }
+   },
+   "quantity" : 1,
+   "quantityAdded" : -2,
+   "statusCode" : "success"
+}
+2020-07-30 15:43:33,901 [main] INFO com.spartacus.utilities.APIHelper - UpdateCartDate=Thu, 30 Jul 2020 10:13:47 GMT
+Server=
+X-Frame-Options=SAMEORIGIN
+X-Anonymous-Consents=%5B%7B%22templateCode%22%3A%22MARKETING_NEWSLETTER%22%2C%22templateVersion%22%3A0%2C%22consentState%22%3Anull%7D%2C%7B%22templateCode%22%3A%22PROFILE%22%2C%22templateVersion%22%3A0%2C%22consentState%22%3Anull%7D%2C%7B%22templateCode%22%3A%22STORE_USER_INFORMATION%22%2C%22templateVersion%22%3A0%2C%22consentState%22%3Anull%7D%5D
+Cache-Control=no-cache, no-store, max-age=0, must-revalidate
+Pragma=no-cache
+Expires=0
+Strict-Transport-Security=max-age=16070400 ; includeSubDomains
+X-XSS-Protection=1; mode=block
+X-Content-Type-Options=nosniff
+Content-Type=application/json;charset=UTF-8
+Vary=Accept-Encoding,User-Agent
+Content-Encoding=gzip
+Set-Cookie=ROUTE=.api-59b55566f5-tphtj; Path=/; Secure; HttpOnly; SameSite=None
+Content-Length=394
+Keep-Alive=timeout=5, max=100
+Connection=Keep-Alive
+2020-07-30 15:43:33,903 [main] INFO com.spartacus.utilities.APIHelper - Detailed Info..
+2020-07-30 15:43:33,913 [main] INFO com.spartacus.utilities.APIHelper - UpdateCartio.restassured.internal.ValidatableResponseImpl@71e35c4
+2020-07-30 15:43:35,216 [main] INFO com.spartacus.utilities.APIHelper - FetchCart{
+   "type" : "cartWsDTO",
+   "code" : "0000180814",
+   "entries" : [ {
+      "configurationInfos" : [ ],
+      "entryNumber" : 0,
+      "product" : {
+         "availableForPickup" : true,
+         "baseOptions" : [ ],
+         "categories" : [ {
+            "code" : "587",
+            "name" : "Tripods"
+         }, {
+            "code" : "brand_88",
+            "name" : "Kodak"
+         } ],
+         "code" : "932577",
+         "configurable" : false,
+         "manufacturer" : "Kodak",
+         "name" : "Digital Camera Tripod",
+         "purchasable" : true,
+         "stock" : {
+            "stockLevel" : 366,
+            "stockLevelStatus" : "inStock"
+         },
+         "url" : "/Open-Catalogue/Cameras/Digital-Cameras/Digital-SLR/Tripods/Digital-Camera-Tripod/p/932577"
+      },
+      "quantity" : 1,
+      "totalPrice" : {
+         "currencyIso" : "USD",
+         "value" : 24.47
+      }
+   } ],
+   "guid" : "8c1ebee4-cc72-4b8a-97a4-23c1202f307c",
+   "totalItems" : 1,
+   "totalPrice" : {
+      "currencyIso" : "USD",
+      "value" : 24.47
+   },
+   "totalPriceWithTax" : {
+      "currencyIso" : "USD",
+      "value" : 24.47
+   }
+}
+2020-07-30 15:43:35,216 [main] INFO com.spartacus.utilities.APIHelper - FetchCartDate=Thu, 30 Jul 2020 10:13:49 GMT
+Server=
+X-Frame-Options=SAMEORIGIN
+X-Anonymous-Consents=%5B%7B%22templateCode%22%3A%22MARKETING_NEWSLETTER%22%2C%22templateVersion%22%3A0%2C%22consentState%22%3Anull%7D%2C%7B%22templateCode%22%3A%22PROFILE%22%2C%22templateVersion%22%3A0%2C%22consentState%22%3Anull%7D%2C%7B%22templateCode%22%3A%22STORE_USER_INFORMATION%22%2C%22templateVersion%22%3A0%2C%22consentState%22%3Anull%7D%5D
+Cache-Control=no-cache
+Strict-Transport-Security=max-age=16070400 ; includeSubDomains
+X-XSS-Protection=1; mode=block
+X-Content-Type-Options=nosniff
+ETag="03d86035c3c63943c1828fc126b74f66d-gzip"
+Content-Type=application/json;charset=UTF-8
+Vary=Accept-Encoding,User-Agent
+Content-Encoding=gzip
+Set-Cookie=ROUTE=.api-59b55566f5-tphtj; Path=/; Secure; HttpOnly; SameSite=None
+Content-Length=462
+Keep-Alive=timeout=5, max=100
+Connection=Keep-Alive
+2020-07-30 15:43:35,217 [main] INFO com.spartacus.utilities.APIHelper - Detailed Info..
+2020-07-30 15:43:35,219 [main] INFO com.spartacus.utilities.APIHelper - FetchCartio.restassured.internal.ValidatableResponseImpl@58437801
+2020-07-30 15:43:35,301 [main] INFO com.spartacus.steps.BeforeAfterStepDefinition - Properties objects are initialized, hence skip this method
+2020-07-30 15:43:35,302 [main] INFO com.spartacus.steps.BeforeAfterStepDefinition - Reports Initialization::com.aventstack.extentreports.reporter.ExtentHtmlReporter@1ce24091

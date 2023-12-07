@@ -1,0 +1,40 @@
+{
+  "accountHolderName": "Santhosh",
+  "billingAddress": {
+    "cellphone": "9160669160",
+    "country": {
+      "isocode": "US",
+      "name": "United States"
+    },
+    "defaultAddress": true,
+    "district": "Atlanta",
+    "email": "santhosh@gmail.com",
+    "firstName": "Santhosh",
+    "formattedAddress": "1 Ravinia",
+    "id": "string",
+    "lastName": "Shetty",
+    "line1": "1 Ravinia",
+    "line2": "Dr",
+    "phone": "9160669160",
+    "postalCode": "30346",
+    "region": {
+      "countryIso": "US",
+      "isocode": "US-GA",
+      "isocodeShort": "US",
+      "name": "United States"
+    },
+    "shippingAddress": true,
+    "title": "Mr",
+    "titleCode": "Mr",
+    "town": "Atlanta",
+    "visibleInAddressBook": true
+  },
+  "cardNumber": "4444333322221111",
+  "cardType": {
+    "code": "visa",
+    "name": "visa"
+  },
+  "defaultPayment": true,
+  "expiryMonth": "12",
+  "expiryYear": "2021"
+}

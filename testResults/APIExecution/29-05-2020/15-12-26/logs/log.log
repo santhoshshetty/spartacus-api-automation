@@ -1,0 +1,129 @@
+2020-05-29 15:12:27,223 [main] INFO com.spartacus.steps.BeforeAfterStepDefinition - Reports Initialization::com.aventstack.extentreports.reporter.ExtentHtmlReporter@40005471
+2020-05-29 15:12:34,978 [main] INFO com.spartacus.utilities.APIHelper - UserLogin{
+  "access_token" : "7505d452-0614-4ba1-b500-7b84094ae960",
+  "token_type" : "bearer",
+  "refresh_token" : "8b1dedbf-6cca-44d1-b6e7-6df5b1e6792c",
+  "expires_in" : 35342,
+  "scope" : "basic openid"
+}
+2020-05-29 15:12:34,979 [main] INFO com.spartacus.utilities.APIHelper - UserLoginDate=Fri, 29 May 2020 09:42:41 GMT
+Server=
+X-Frame-Options=SAMEORIGIN
+Cache-Control=no-store
+Pragma=no-cache
+Strict-Transport-Security=max-age=31536000 ; includeSubDomains
+X-XSS-Protection=1; mode=block
+X-Content-Type-Options=nosniff
+Content-Type=application/json;charset=UTF-8
+Vary=Accept-Encoding,User-Agent
+Content-Encoding=gzip
+Set-Cookie=JSESSIONID=ED8523F7BFC2D4099C7FB371A71D7D88.api-ffbb9d9b4-gbv5d; Path=/authorizationserver; Secure; HttpOnly
+Set-Cookie=ROUTE=.api-ffbb9d9b4-gbv5d; Path=/; Secure; HttpOnly; SameSite=None
+Keep-Alive=timeout=5, max=100
+Connection=Keep-Alive
+Transfer-Encoding=chunked
+2020-05-29 15:12:34,979 [main] INFO com.spartacus.utilities.APIHelper - Detailed Info..
+2020-05-29 15:12:35,116 [main] INFO com.spartacus.utilities.APIHelper - UserLoginio.restassured.internal.ValidatableResponseImpl@422b8438
+2020-05-29 15:12:39,204 [main] INFO com.spartacus.utilities.APIHelper - DeleteCartBeforeToScenarioExec
+2020-05-29 15:12:39,205 [main] INFO com.spartacus.utilities.APIHelper - DeleteCartBeforeToScenarioExecDate=Fri, 29 May 2020 09:42:47 GMT
+Server=
+X-Frame-Options=SAMEORIGIN
+Cache-Control=no-cache, no-store, max-age=0, must-revalidate
+Pragma=no-cache
+Expires=0
+Strict-Transport-Security=max-age=16070400 ; includeSubDomains
+X-XSS-Protection=1; mode=block
+X-Content-Type-Options=nosniff
+Content-Length=0
+Vary=User-Agent
+Set-Cookie=ROUTE=.api-ffbb9d9b4-gbv5d; Path=/; Secure; HttpOnly; SameSite=None
+Keep-Alive=timeout=5, max=100
+Connection=Keep-Alive
+2020-05-29 15:12:39,205 [main] INFO com.spartacus.utilities.APIHelper - Detailed Info..
+2020-05-29 15:12:39,206 [main] INFO com.spartacus.utilities.APIHelper - DeleteCartBeforeToScenarioExecio.restassured.internal.ValidatableResponseImpl@1c6c6f24
+2020-05-29 15:12:41,093 [main] INFO com.spartacus.utilities.APIHelper - CreateCart{
+   "type" : "cartWsDTO",
+   "code" : "0000070008",
+   "entries" : [ ],
+   "guid" : "6b9984d2-ab15-4bc9-b3e9-4abbbd6f3918",
+   "totalItems" : 0,
+   "totalPrice" : {
+      "currencyIso" : "USD",
+      "value" : 0.0
+   },
+   "totalPriceWithTax" : {
+      "currencyIso" : "USD",
+      "value" : 0.0
+   }
+}
+2020-05-29 15:12:41,093 [main] INFO com.spartacus.utilities.APIHelper - CreateCartDate=Fri, 29 May 2020 09:42:48 GMT
+Server=
+X-Frame-Options=SAMEORIGIN
+Cache-Control=no-cache, no-store, max-age=0, must-revalidate
+Pragma=no-cache
+Expires=0
+Strict-Transport-Security=max-age=16070400 ; includeSubDomains
+X-XSS-Protection=1; mode=block
+X-Content-Type-Options=nosniff
+Content-Type=application/json;charset=UTF-8
+Content-Length=303
+Vary=User-Agent
+Set-Cookie=ROUTE=.api-ffbb9d9b4-gbv5d; Path=/; Secure; HttpOnly; SameSite=None
+Keep-Alive=timeout=5, max=100
+Connection=Keep-Alive
+2020-05-29 15:12:41,093 [main] INFO com.spartacus.utilities.APIHelper - Detailed Info..
+2020-05-29 15:12:41,095 [main] INFO com.spartacus.utilities.APIHelper - CreateCartio.restassured.internal.ValidatableResponseImpl@62db0521
+2020-05-29 15:12:42,671 [main] INFO com.spartacus.utilities.APIHelper - AddToCart Status code is not expected: 
+2020-05-29 15:12:42,671 [main] INFO com.spartacus.utilities.APIHelper - AddToCart400
+2020-05-29 15:12:42,673 [main] INFO com.spartacus.utilities.APIHelper - AddToCart{
+   "errors" : [ {
+      "message" : "Cart not found.",
+      "reason" : "notFound",
+      "subject" : "0000070008",
+      "subjectType" : "cart",
+      "type" : "CartError"
+   } ]
+}
+2020-05-29 15:12:46,954 [main] INFO com.spartacus.utilities.APIHelper - UserLogin{
+  "access_token" : "7505d452-0614-4ba1-b500-7b84094ae960",
+  "token_type" : "bearer",
+  "refresh_token" : "8b1dedbf-6cca-44d1-b6e7-6df5b1e6792c",
+  "expires_in" : 35329,
+  "scope" : "basic openid"
+}
+2020-05-29 15:12:46,955 [main] INFO com.spartacus.utilities.APIHelper - UserLoginDate=Fri, 29 May 2020 09:42:54 GMT
+Server=
+X-Frame-Options=SAMEORIGIN
+Cache-Control=no-store
+Pragma=no-cache
+Strict-Transport-Security=max-age=31536000 ; includeSubDomains
+X-XSS-Protection=1; mode=block
+X-Content-Type-Options=nosniff
+Content-Type=application/json;charset=UTF-8
+Vary=Accept-Encoding,User-Agent
+Content-Encoding=gzip
+Set-Cookie=JSESSIONID=47921D8BADE38FDF53EF7A8C381B1B9C.api-ffbb9d9b4-gbv5d; Path=/authorizationserver; Secure; HttpOnly
+Set-Cookie=ROUTE=.api-ffbb9d9b4-gbv5d; Path=/; Secure; HttpOnly; SameSite=None
+Keep-Alive=timeout=5, max=100
+Connection=Keep-Alive
+Transfer-Encoding=chunked
+2020-05-29 15:12:46,955 [main] INFO com.spartacus.utilities.APIHelper - Detailed Info..
+2020-05-29 15:12:46,957 [main] INFO com.spartacus.utilities.APIHelper - UserLoginio.restassured.internal.ValidatableResponseImpl@13fed1ec
+2020-05-29 15:12:48,836 [main] INFO com.spartacus.utilities.APIHelper - Assertions on the field: ProductCode is failure
+2020-05-29 15:12:48,837 [main] INFO com.spartacus.utilities.APIHelper - FetchCart Status code is not expected: 
+2020-05-29 15:12:48,837 [main] INFO com.spartacus.utilities.APIHelper - FetchCart200
+2020-05-29 15:12:48,837 [main] INFO com.spartacus.utilities.APIHelper - FetchCart{
+   "type" : "cartWsDTO",
+   "code" : "0000070008",
+   "entries" : [ ],
+   "guid" : "6b9984d2-ab15-4bc9-b3e9-4abbbd6f3918",
+   "totalItems" : 0,
+   "totalPrice" : {
+      "currencyIso" : "USD",
+      "value" : 0.0
+   },
+   "totalPriceWithTax" : {
+      "currencyIso" : "USD",
+      "value" : 0.0
+   }
+}

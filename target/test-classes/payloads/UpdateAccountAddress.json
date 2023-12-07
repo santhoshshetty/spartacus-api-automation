@@ -1,0 +1,18 @@
+{
+    "defaultAddress": false,
+    "titleCode": "mr",
+    "firstName": "test",
+    "lastName": "test12",
+    "line1": "test123",
+    "line2": "",
+    "town": "Atlanta",
+    "region": {
+        "isocode": "US-GA",
+        "isocodeShort": "GA"
+    },
+    "country": {
+        "isocode": "US"
+    },
+    "postalCode": "30346",
+    "phone": "9876765678"
+}

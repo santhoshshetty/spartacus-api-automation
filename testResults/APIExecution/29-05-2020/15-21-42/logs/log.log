@@ -1,0 +1,222 @@
+2020-05-29 15:21:42,757 [main] INFO com.spartacus.steps.BeforeAfterStepDefinition - Reports Initialization::com.aventstack.extentreports.reporter.ExtentHtmlReporter@acdb094
+2020-05-29 15:21:54,068 [main] INFO com.spartacus.utilities.APIHelper - UserLogin{
+  "access_token" : "7505d452-0614-4ba1-b500-7b84094ae960",
+  "token_type" : "bearer",
+  "refresh_token" : "8b1dedbf-6cca-44d1-b6e7-6df5b1e6792c",
+  "expires_in" : 34783,
+  "scope" : "basic openid"
+}
+2020-05-29 15:21:54,069 [main] INFO com.spartacus.utilities.APIHelper - UserLoginDate=Fri, 29 May 2020 09:51:59 GMT
+Server=
+X-Frame-Options=SAMEORIGIN
+Cache-Control=no-store
+Pragma=no-cache
+Strict-Transport-Security=max-age=31536000 ; includeSubDomains
+X-XSS-Protection=1; mode=block
+X-Content-Type-Options=nosniff
+Content-Type=application/json;charset=UTF-8
+Vary=Accept-Encoding,User-Agent
+Content-Encoding=gzip
+Set-Cookie=JSESSIONID=0D87AC866EA130DF0D56193A749A5B51.api-ffbb9d9b4-gbv5d; Path=/authorizationserver; Secure; HttpOnly
+Set-Cookie=ROUTE=.api-ffbb9d9b4-gbv5d; Path=/; Secure; HttpOnly; SameSite=None
+Keep-Alive=timeout=5, max=100
+Connection=Keep-Alive
+Transfer-Encoding=chunked
+2020-05-29 15:21:54,070 [main] INFO com.spartacus.utilities.APIHelper - Detailed Info..
+2020-05-29 15:21:54,240 [main] INFO com.spartacus.utilities.APIHelper - UserLoginio.restassured.internal.ValidatableResponseImpl@566f1852
+2020-05-29 15:21:56,166 [main] INFO com.spartacus.utilities.APIHelper - DeleteCartBeforeToScenarioExec: There are no carts exists{
+   "carts" : [ ]
+}
+2020-05-29 15:21:56,166 [main] INFO com.spartacus.utilities.APIHelper - DeleteCartBeforeToScenarioExec: There are no carts existsDate=Fri, 29 May 2020 09:52:03 GMT
+Server=
+X-Frame-Options=SAMEORIGIN
+Cache-Control=no-cache
+Strict-Transport-Security=max-age=16070400 ; includeSubDomains
+X-XSS-Protection=1; mode=block
+X-Content-Type-Options=nosniff
+ETag="0bf3677743498085a11cb1fd8c6df8d29"
+Content-Type=application/json;charset=UTF-8
+Content-Length=20
+Vary=User-Agent
+Set-Cookie=ROUTE=.api-ffbb9d9b4-gbv5d; Path=/; Secure; HttpOnly; SameSite=None
+Keep-Alive=timeout=5, max=100
+Connection=Keep-Alive
+2020-05-29 15:21:56,167 [main] INFO com.spartacus.utilities.APIHelper - Detailed Info..
+2020-05-29 15:21:56,168 [main] INFO com.spartacus.utilities.APIHelper - DeleteCartBeforeToScenarioExec: There are no carts existsio.restassured.internal.ValidatableResponseImpl@67fa5045
+2020-05-29 15:21:58,034 [main] INFO com.spartacus.utilities.APIHelper - CreateCart{
+   "type" : "cartWsDTO",
+   "code" : "0000070011",
+   "entries" : [ ],
+   "guid" : "921b1d47-4717-4160-8237-e803624e9dac",
+   "totalItems" : 0,
+   "totalPrice" : {
+      "currencyIso" : "USD",
+      "value" : 0.0
+   },
+   "totalPriceWithTax" : {
+      "currencyIso" : "USD",
+      "value" : 0.0
+   }
+}
+2020-05-29 15:21:58,034 [main] INFO com.spartacus.utilities.APIHelper - CreateCartDate=Fri, 29 May 2020 09:52:05 GMT
+Server=
+X-Frame-Options=SAMEORIGIN
+X-Anonymous-Consents=%5B%7B%22templateCode%22%3A%22MARKETING_NEWSLETTER%22%2C%22templateVersion%22%3A0%2C%22consentState%22%3Anull%7D%2C%7B%22templateCode%22%3A%22PROFILE%22%2C%22templateVersion%22%3A0%2C%22consentState%22%3Anull%7D%2C%7B%22templateCode%22%3A%22STORE_USER_INFORMATION%22%2C%22templateVersion%22%3A0%2C%22consentState%22%3Anull%7D%5D
+Cache-Control=no-cache, no-store, max-age=0, must-revalidate
+Pragma=no-cache
+Expires=0
+Strict-Transport-Security=max-age=16070400 ; includeSubDomains
+X-XSS-Protection=1; mode=block
+X-Content-Type-Options=nosniff
+Content-Type=application/json;charset=UTF-8
+Content-Length=303
+Vary=User-Agent
+Set-Cookie=ROUTE=.api-ffbb9d9b4-gbv5d; Path=/; Secure; HttpOnly; SameSite=None
+Keep-Alive=timeout=5, max=100
+Connection=Keep-Alive
+2020-05-29 15:21:58,035 [main] INFO com.spartacus.utilities.APIHelper - Detailed Info..
+2020-05-29 15:21:58,037 [main] INFO com.spartacus.utilities.APIHelper - CreateCartio.restassured.internal.ValidatableResponseImpl@3a8cea24
+2020-05-29 15:22:00,101 [main] INFO com.spartacus.utilities.APIHelper - Assertions on the field: ProductCode is success
+2020-05-29 15:22:00,161 [main] INFO com.spartacus.utilities.APIHelper - Assertions on the field: ProductQty is success
+2020-05-29 15:22:00,162 [main] INFO com.spartacus.utilities.APIHelper - AddToCart{
+   "entry" : {
+      "configurationInfos" : [ ],
+      "entryNumber" : 0,
+      "product" : {
+         "availableForPickup" : true,
+         "baseOptions" : [ ],
+         "categories" : [ {
+            "code" : "587",
+            "name" : "Tripods"
+         }, {
+            "code" : "brand_88",
+            "name" : "Kodak"
+         } ],
+         "code" : "932577",
+         "configurable" : false,
+         "manufacturer" : "Kodak",
+         "name" : "Digital Camera Tripod",
+         "purchasable" : true,
+         "stock" : {
+            "stockLevel" : 590,
+            "stockLevelStatus" : "inStock"
+         },
+         "url" : "/Open-Catalogue/Cameras/Digital-Cameras/Digital-SLR/Tripods/Digital-Camera-Tripod/p/932577"
+      },
+      "quantity" : 3,
+      "totalPrice" : {
+         "currencyIso" : "USD",
+         "value" : 73.41
+      }
+   },
+   "quantity" : 3,
+   "quantityAdded" : 3,
+   "statusCode" : "success"
+}
+2020-05-29 15:22:00,163 [main] INFO com.spartacus.utilities.APIHelper - AddToCartDate=Fri, 29 May 2020 09:52:07 GMT
+Server=
+X-Frame-Options=SAMEORIGIN
+X-Anonymous-Consents=%5B%7B%22templateCode%22%3A%22MARKETING_NEWSLETTER%22%2C%22templateVersion%22%3A0%2C%22consentState%22%3Anull%7D%2C%7B%22templateCode%22%3A%22PROFILE%22%2C%22templateVersion%22%3A0%2C%22consentState%22%3Anull%7D%2C%7B%22templateCode%22%3A%22STORE_USER_INFORMATION%22%2C%22templateVersion%22%3A0%2C%22consentState%22%3Anull%7D%5D
+Cache-Control=no-cache, no-store, max-age=0, must-revalidate
+Pragma=no-cache
+Expires=0
+Strict-Transport-Security=max-age=16070400 ; includeSubDomains
+X-XSS-Protection=1; mode=block
+X-Content-Type-Options=nosniff
+Content-Type=application/json;charset=UTF-8
+Vary=Accept-Encoding,User-Agent
+Content-Encoding=gzip
+Set-Cookie=ROUTE=.api-ffbb9d9b4-gbv5d; Path=/; Secure; HttpOnly; SameSite=None
+Content-Length=390
+Keep-Alive=timeout=5, max=100
+Connection=Keep-Alive
+2020-05-29 15:22:00,164 [main] INFO com.spartacus.utilities.APIHelper - Detailed Info..
+2020-05-29 15:22:00,166 [main] INFO com.spartacus.utilities.APIHelper - AddToCartio.restassured.internal.ValidatableResponseImpl@8f40022
+2020-05-29 15:22:29,156 [main] INFO com.spartacus.utilities.APIHelper - Assertions on the field: ProductCode is success
+2020-05-29 15:22:49,762 [main] INFO com.spartacus.utilities.APIHelper - FetchCart{
+   "type" : "cartWsDTO",
+   "code" : "0000070011",
+   "entries" : [ {
+      "configurationInfos" : [ ],
+      "entryNumber" : 0,
+      "product" : {
+         "availableForPickup" : true,
+         "baseOptions" : [ ],
+         "categories" : [ {
+            "code" : "587",
+            "name" : "Tripods"
+         }, {
+            "code" : "brand_88",
+            "name" : "Kodak"
+         } ],
+         "code" : "932577",
+         "configurable" : false,
+         "manufacturer" : "Kodak",
+         "name" : "Digital Camera Tripod",
+         "purchasable" : true,
+         "stock" : {
+            "stockLevel" : 590,
+            "stockLevelStatus" : "inStock"
+         },
+         "url" : "/Open-Catalogue/Cameras/Digital-Cameras/Digital-SLR/Tripods/Digital-Camera-Tripod/p/932577"
+      },
+      "quantity" : 3,
+      "totalPrice" : {
+         "currencyIso" : "USD",
+         "value" : 73.41
+      }
+   } ],
+   "guid" : "921b1d47-4717-4160-8237-e803624e9dac",
+   "totalItems" : 1,
+   "totalPrice" : {
+      "currencyIso" : "USD",
+      "value" : 73.41
+   },
+   "totalPriceWithTax" : {
+      "currencyIso" : "USD",
+      "value" : 73.41
+   }
+}
+2020-05-29 15:22:49,769 [main] INFO com.spartacus.utilities.APIHelper - FetchCartDate=Fri, 29 May 2020 09:52:23 GMT
+Server=
+X-Frame-Options=SAMEORIGIN
+X-Anonymous-Consents=%5B%7B%22templateCode%22%3A%22MARKETING_NEWSLETTER%22%2C%22templateVersion%22%3A0%2C%22consentState%22%3Anull%7D%2C%7B%22templateCode%22%3A%22PROFILE%22%2C%22templateVersion%22%3A0%2C%22consentState%22%3Anull%7D%2C%7B%22templateCode%22%3A%22STORE_USER_INFORMATION%22%2C%22templateVersion%22%3A0%2C%22consentState%22%3Anull%7D%5D
+Cache-Control=no-cache
+Strict-Transport-Security=max-age=16070400 ; includeSubDomains
+X-XSS-Protection=1; mode=block
+X-Content-Type-Options=nosniff
+ETag="0a97ba9d91a9a7547ea535a67fa8c0ee2-gzip"
+Content-Type=application/json;charset=UTF-8
+Vary=Accept-Encoding,User-Agent
+Content-Encoding=gzip
+Set-Cookie=ROUTE=.api-ffbb9d9b4-gbv5d; Path=/; Secure; HttpOnly; SameSite=None
+Content-Length=464
+Keep-Alive=timeout=5, max=100
+Connection=Keep-Alive
+2020-05-29 15:22:49,772 [main] INFO com.spartacus.utilities.APIHelper - Detailed Info..
+2020-05-29 15:22:50,133 [main] INFO com.spartacus.utilities.APIHelper - FetchCartio.restassured.internal.ValidatableResponseImpl@656a3d6b
+2020-05-29 15:22:59,526 [main] INFO com.spartacus.utilities.APIHelper - UserLogin{
+  "access_token" : "7505d452-0614-4ba1-b500-7b84094ae960",
+  "token_type" : "bearer",
+  "refresh_token" : "8b1dedbf-6cca-44d1-b6e7-6df5b1e6792c",
+  "expires_in" : 34716,
+  "scope" : "basic openid"
+}
+2020-05-29 15:22:59,527 [main] INFO com.spartacus.utilities.APIHelper - UserLoginDate=Fri, 29 May 2020 09:53:07 GMT
+Server=
+X-Frame-Options=SAMEORIGIN
+Cache-Control=no-store
+Pragma=no-cache
+Strict-Transport-Security=max-age=31536000 ; includeSubDomains
+X-XSS-Protection=1; mode=block
+X-Content-Type-Options=nosniff
+Content-Type=application/json;charset=UTF-8
+Vary=Accept-Encoding,User-Agent
+Content-Encoding=gzip
+Set-Cookie=JSESSIONID=5D73D8E56759A0CAD3CDBB097E282290.api-ffbb9d9b4-gbv5d; Path=/authorizationserver; Secure; HttpOnly
+Set-Cookie=ROUTE=.api-ffbb9d9b4-gbv5d; Path=/; Secure; HttpOnly; SameSite=None
+Keep-Alive=timeout=5, max=100
+Connection=Keep-Alive
+Transfer-Encoding=chunked
+2020-05-29 15:22:59,527 [main] INFO com.spartacus.utilities.APIHelper - Detailed Info..
+2020-05-29 15:22:59,528 [main] INFO com.spartacus.utilities.APIHelper - UserLoginio.restassured.internal.ValidatableResponseImpl@108e9837

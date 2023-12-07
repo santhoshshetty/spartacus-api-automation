@@ -1,0 +1,8 @@
+cartId=guid
+cartId_login=code
+codeId=entries/product/code
+totalItems=totalItems
+bearerToken=access_token
+addressId=id
+orderCode=code
+setCheckoutAcctMgmtAddressId=addresses[0].id
